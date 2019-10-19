@@ -1,0 +1,147 @@
+D:\all\New folder\WindowsFormsApplication1\supermarket form\supermarket form\bin\Debug\supermarket form.exe.config
+D:\all\New folder\WindowsFormsApplication1\supermarket form\supermarket form\bin\Debug\supermarket form.exe
+D:\all\New folder\WindowsFormsApplication1\supermarket form\supermarket form\bin\Debug\supermarket form.pdb
+D:\all\New folder\WindowsFormsApplication1\supermarket form\supermarket form\obj\Debug\supermarket_form.Form1.resources
+D:\all\New folder\WindowsFormsApplication1\supermarket form\supermarket form\obj\Debug\supermarket_form.Properties.Resources.resources
+D:\all\New folder\WindowsFormsApplication1\supermarket form\supermarket form\obj\Debug\supermarket form.csproj.GenerateResource.Cache
+D:\all\New folder\WindowsFormsApplication1\supermarket form\supermarket form\obj\Debug\supermarket form.exe
+D:\all\New folder\WindowsFormsApplication1\supermarket form\supermarket form\obj\Debug\supermarket form.pdb
+D:\all\New folder\WindowsFormsApplication1\supermarket form\supermarket form\obj\Debug\supermarket_form.Form2.resources
+D:\all\New folder\WindowsFormsApplication1\supermarket form\supermarket form\obj\Debug\supermarket_form.stock_menu.resources
+D:\all\New folder\WindowsFormsApplication1\supermarket form\supermarket form\obj\Debug\supermarket_form.first_control.resources
+D:\all\New folder\WindowsFormsApplication1\supermarket form\supermarket form\obj\Debug\supermarket_form.second_control.resources
+D:\all\New folder\WindowsFormsApplication1\supermarket form\supermarket form\obj\Debug\supermarket_form.Form3.resources
+D:\all\New folder\WindowsFormsApplication1\supermarket form\supermarket form\obj\Debug\supermarket_form.Form4.resources
+D:\all\New folder\WindowsFormsApplication1\supermarket form\supermarket form\obj\Debug\supermarket_form.Form5.resources
+D:\all\New folder\WindowsFormsApplication1\supermarket form\supermarket form\obj\Debug\supermarket_form.Form6.resources
+D:\all\New folder\WindowsFormsApplication1\supermarket form\supermarket form\obj\Debug\supermarket_form.third_control.resources
+D:\all\New folder\WindowsFormsApplication1\supermarket form\supermarket form\obj\Debug\supermarket_form.four_control.resources
+D:\all\New folder\WindowsFormsApplication1\supermarket form\supermarket form\obj\Debug\supermarket_form.Form10.resources
+D:\all\New folder\WindowsFormsApplication1\supermarket form\supermarket form\obj\Debug\supermarket_form.Form9.resources
+D:\all\New folder\WindowsFormsApplication1\supermarket form\supermarket form\obj\Debug\supermarket_form.Show.resources
+D:\all\New folder\WindowsFormsApplication1\supermarket form\supermarket form\obj\Debug\supermarket_form.form8.resources
+D:\all\New folder\WindowsFormsApplication1\supermarket form\supermarket form\obj\Debug\supermarket_form.fivecontrol.resources
+D:\all\New folder\WindowsFormsApplication1\supermarket form\supermarket form\obj\Debug\supermarket_form.Form11.resources
+D:\all\New folder\WindowsFormsApplication1\supermarket form\supermarket form\obj\Debug\supermarket_form.Form12.resources
+D:\all\New folder\WindowsFormsApplication1\supermarket form\supermarket form\obj\Debug\supermarket_form.sixcontrol.resources
+C:\Users\Han Mengsu\Desktop\supermarket form\supermarket form\bin\Debug\supermarket form.exe.config
+C:\Users\Han Mengsu\Desktop\supermarket form\supermarket form\obj\Debug\supermarket form.exe
+C:\Users\Han Mengsu\Desktop\supermarket form\supermarket form\obj\Debug\supermarket form.pdb
+C:\Users\Han Mengsu\Desktop\supermarket form\supermarket form\bin\Debug\supermarket form.exe
+C:\Users\Han Mengsu\Desktop\supermarket form\supermarket form\bin\Debug\supermarket form.pdb
+C:\Users\Han Mengsu\Desktop\supermarket form\supermarket form\obj\Debug\supermarket form.csprojResolveAssemblyReference.cache
+C:\Users\Han Mengsu\Desktop\supermarket form\supermarket form\obj\Debug\supermarket_form.first_control.resources
+C:\Users\Han Mengsu\Desktop\supermarket form\supermarket form\obj\Debug\supermarket_form.fivecontrol.resources
+C:\Users\Han Mengsu\Desktop\supermarket form\supermarket form\obj\Debug\supermarket_form.Form1.resources
+C:\Users\Han Mengsu\Desktop\supermarket form\supermarket form\obj\Debug\supermarket_form.Form10.resources
+C:\Users\Han Mengsu\Desktop\supermarket form\supermarket form\obj\Debug\supermarket_form.Form11.resources
+C:\Users\Han Mengsu\Desktop\supermarket form\supermarket form\obj\Debug\supermarket_form.Form12.resources
+C:\Users\Han Mengsu\Desktop\supermarket form\supermarket form\obj\Debug\supermarket_form.Form2.resources
+C:\Users\Han Mengsu\Desktop\supermarket form\supermarket form\obj\Debug\supermarket_form.Form3.resources
+C:\Users\Han Mengsu\Desktop\supermarket form\supermarket form\obj\Debug\supermarket_form.Form4.resources
+C:\Users\Han Mengsu\Desktop\supermarket form\supermarket form\obj\Debug\supermarket_form.Form5.resources
+C:\Users\Han Mengsu\Desktop\supermarket form\supermarket form\obj\Debug\supermarket_form.Form6.resources
+C:\Users\Han Mengsu\Desktop\supermarket form\supermarket form\obj\Debug\supermarket_form.Show.resources
+C:\Users\Han Mengsu\Desktop\supermarket form\supermarket form\obj\Debug\supermarket_form.form8.resources
+C:\Users\Han Mengsu\Desktop\supermarket form\supermarket form\obj\Debug\supermarket_form.Form9.resources
+C:\Users\Han Mengsu\Desktop\supermarket form\supermarket form\obj\Debug\supermarket_form.four_control.resources
+C:\Users\Han Mengsu\Desktop\supermarket form\supermarket form\obj\Debug\supermarket_form.Properties.Resources.resources
+C:\Users\Han Mengsu\Desktop\supermarket form\supermarket form\obj\Debug\supermarket_form.second_control.resources
+C:\Users\Han Mengsu\Desktop\supermarket form\supermarket form\obj\Debug\supermarket_form.sixcontrol.resources
+C:\Users\Han Mengsu\Desktop\supermarket form\supermarket form\obj\Debug\supermarket_form.stock_menu.resources
+C:\Users\Han Mengsu\Desktop\supermarket form\supermarket form\obj\Debug\supermarket_form.third_control.resources
+C:\Users\Han Mengsu\Desktop\supermarket form\supermarket form\obj\Debug\supermarket form.csproj.GenerateResource.Cache
+C:\Users\Han Mengsu\Desktop\supermarket form\supermarket form\bin\Debug\supermarket form.exe.manifest
+C:\Users\Han Mengsu\Desktop\supermarket form\supermarket form\bin\Debug\supermarket form.application
+C:\Users\Han Mengsu\Desktop\supermarket form\supermarket form\obj\Debug\supermarket form.exe.manifest
+C:\Users\Han Mengsu\Desktop\supermarket form\supermarket form\obj\Debug\supermarket form.application
+C:\Oudom\C# Development\c#\rupp\supermarket form\supermarket form\bin\Debug\supermarket form.exe.config
+C:\Oudom\C# Development\c#\rupp\supermarket form\supermarket form\bin\Debug\supermarket form.exe.manifest
+C:\Oudom\C# Development\c#\rupp\supermarket form\supermarket form\bin\Debug\supermarket form.application
+C:\Oudom\C# Development\c#\rupp\supermarket form\supermarket form\bin\Debug\supermarket form.exe
+C:\Oudom\C# Development\c#\rupp\supermarket form\supermarket form\bin\Debug\supermarket form.pdb
+C:\Oudom\C# Development\c#\rupp\supermarket form\supermarket form\obj\Debug\supermarket form.csprojAssemblyReference.cache
+C:\Oudom\C# Development\c#\rupp\supermarket form\supermarket form\obj\Debug\supermarket_form.first_control.resources
+C:\Oudom\C# Development\c#\rupp\supermarket form\supermarket form\obj\Debug\supermarket_form.fivecontrol.resources
+C:\Oudom\C# Development\c#\rupp\supermarket form\supermarket form\obj\Debug\supermarket_form.Form1.resources
+C:\Oudom\C# Development\c#\rupp\supermarket form\supermarket form\obj\Debug\supermarket_form.Form10.resources
+C:\Oudom\C# Development\c#\rupp\supermarket form\supermarket form\obj\Debug\supermarket_form.Form11.resources
+C:\Oudom\C# Development\c#\rupp\supermarket form\supermarket form\obj\Debug\supermarket_form.Form12.resources
+C:\Oudom\C# Development\c#\rupp\supermarket form\supermarket form\obj\Debug\supermarket_form.Form2.resources
+C:\Oudom\C# Development\c#\rupp\supermarket form\supermarket form\obj\Debug\supermarket_form.Form3.resources
+C:\Oudom\C# Development\c#\rupp\supermarket form\supermarket form\obj\Debug\supermarket_form.Form4.resources
+C:\Oudom\C# Development\c#\rupp\supermarket form\supermarket form\obj\Debug\supermarket_form.Form5.resources
+C:\Oudom\C# Development\c#\rupp\supermarket form\supermarket form\obj\Debug\supermarket_form.Form6.resources
+C:\Oudom\C# Development\c#\rupp\supermarket form\supermarket form\obj\Debug\supermarket_form.Show.resources
+C:\Oudom\C# Development\c#\rupp\supermarket form\supermarket form\obj\Debug\supermarket_form.form8.resources
+C:\Oudom\C# Development\c#\rupp\supermarket form\supermarket form\obj\Debug\supermarket_form.Form9.resources
+C:\Oudom\C# Development\c#\rupp\supermarket form\supermarket form\obj\Debug\supermarket_form.four_control.resources
+C:\Oudom\C# Development\c#\rupp\supermarket form\supermarket form\obj\Debug\supermarket_form.Properties.Resources.resources
+C:\Oudom\C# Development\c#\rupp\supermarket form\supermarket form\obj\Debug\supermarket_form.second_control.resources
+C:\Oudom\C# Development\c#\rupp\supermarket form\supermarket form\obj\Debug\supermarket_form.sixcontrol.resources
+C:\Oudom\C# Development\c#\rupp\supermarket form\supermarket form\obj\Debug\supermarket_form.stock_menu.resources
+C:\Oudom\C# Development\c#\rupp\supermarket form\supermarket form\obj\Debug\supermarket_form.third_control.resources
+C:\Oudom\C# Development\c#\rupp\supermarket form\supermarket form\obj\Debug\supermarket form.csproj.GenerateResource.cache
+C:\Oudom\C# Development\c#\rupp\supermarket form\supermarket form\obj\Debug\supermarket form.csproj.CoreCompileInputs.cache
+C:\Oudom\C# Development\c#\rupp\supermarket form\supermarket form\obj\Debug\supermarket form.exe.manifest
+C:\Oudom\C# Development\c#\rupp\supermarket form\supermarket form\obj\Debug\supermarket form.application
+C:\Oudom\C# Development\c#\rupp\supermarket form\supermarket form\obj\Debug\supermarket form.exe
+C:\Oudom\C# Development\c#\rupp\supermarket form\supermarket form\obj\Debug\supermarket form.pdb
+C:\oudom\C# Development\rupp\Final Project\supermarket form\bin\Debug\supermarket form.exe.config
+C:\oudom\C# Development\rupp\Final Project\supermarket form\bin\Debug\supermarket form.exe.manifest
+C:\oudom\C# Development\rupp\Final Project\supermarket form\bin\Debug\supermarket form.application
+C:\oudom\C# Development\rupp\Final Project\supermarket form\bin\Debug\supermarket form.exe
+C:\oudom\C# Development\rupp\Final Project\supermarket form\bin\Debug\supermarket form.pdb
+C:\oudom\C# Development\rupp\Final Project\supermarket form\obj\Debug\supermarket form.csprojAssemblyReference.cache
+C:\oudom\C# Development\rupp\Final Project\supermarket form\obj\Debug\supermarket_form.first_control.resources
+C:\oudom\C# Development\rupp\Final Project\supermarket form\obj\Debug\supermarket_form.fivecontrol.resources
+C:\oudom\C# Development\rupp\Final Project\supermarket form\obj\Debug\supermarket_form.Form1.resources
+C:\oudom\C# Development\rupp\Final Project\supermarket form\obj\Debug\supermarket_form.Form10.resources
+C:\oudom\C# Development\rupp\Final Project\supermarket form\obj\Debug\supermarket_form.Form11.resources
+C:\oudom\C# Development\rupp\Final Project\supermarket form\obj\Debug\supermarket_form.Form12.resources
+C:\oudom\C# Development\rupp\Final Project\supermarket form\obj\Debug\supermarket_form.Form3.resources
+C:\oudom\C# Development\rupp\Final Project\supermarket form\obj\Debug\supermarket_form.Form4.resources
+C:\oudom\C# Development\rupp\Final Project\supermarket form\obj\Debug\supermarket_form.Form5.resources
+C:\oudom\C# Development\rupp\Final Project\supermarket form\obj\Debug\supermarket_form.Form6.resources
+C:\oudom\C# Development\rupp\Final Project\supermarket form\obj\Debug\supermarket_form.Show.resources
+C:\oudom\C# Development\rupp\Final Project\supermarket form\obj\Debug\supermarket_form.form8.resources
+C:\oudom\C# Development\rupp\Final Project\supermarket form\obj\Debug\supermarket_form.Form9.resources
+C:\oudom\C# Development\rupp\Final Project\supermarket form\obj\Debug\supermarket_form.four_control.resources
+C:\oudom\C# Development\rupp\Final Project\supermarket form\obj\Debug\supermarket_form.Properties.Resources.resources
+C:\oudom\C# Development\rupp\Final Project\supermarket form\obj\Debug\supermarket_form.second_control.resources
+C:\oudom\C# Development\rupp\Final Project\supermarket form\obj\Debug\supermarket_form.sixcontrol.resources
+C:\oudom\C# Development\rupp\Final Project\supermarket form\obj\Debug\supermarket_form.stock_menu.resources
+C:\oudom\C# Development\rupp\Final Project\supermarket form\obj\Debug\supermarket_form.third_control.resources
+C:\oudom\C# Development\rupp\Final Project\supermarket form\obj\Debug\supermarket form.csproj.GenerateResource.cache
+C:\oudom\C# Development\rupp\Final Project\supermarket form\obj\Debug\supermarket form.csproj.CoreCompileInputs.cache
+C:\oudom\C# Development\rupp\Final Project\supermarket form\obj\Debug\supermarket form.exe.manifest
+C:\oudom\C# Development\rupp\Final Project\supermarket form\obj\Debug\supermarket form.application
+C:\oudom\C# Development\rupp\Final Project\supermarket form\obj\Debug\supermarket form.exe
+C:\oudom\C# Development\rupp\Final Project\supermarket form\obj\Debug\supermarket form.pdb
+C:\oudom\C# Development\YearIV C#\OOAD\supermarket form\bin\Debug\supermarket form.exe.config
+C:\oudom\C# Development\YearIV C#\OOAD\supermarket form\bin\Debug\supermarket form.exe.manifest
+C:\oudom\C# Development\YearIV C#\OOAD\supermarket form\bin\Debug\supermarket form.application
+C:\oudom\C# Development\YearIV C#\OOAD\supermarket form\bin\Debug\supermarket form.exe
+C:\oudom\C# Development\YearIV C#\OOAD\supermarket form\bin\Debug\supermarket form.pdb
+C:\oudom\C# Development\YearIV C#\OOAD\supermarket form\bin\Debug\MySql.Data.dll
+C:\oudom\C# Development\YearIV C#\OOAD\supermarket form\obj\Debug\supermarket_form.first_control.resources
+C:\oudom\C# Development\YearIV C#\OOAD\supermarket form\obj\Debug\supermarket_form.fivecontrol.resources
+C:\oudom\C# Development\YearIV C#\OOAD\supermarket form\obj\Debug\supermarket_form.Form1.resources
+C:\oudom\C# Development\YearIV C#\OOAD\supermarket form\obj\Debug\supermarket_form.Form11.resources
+C:\oudom\C# Development\YearIV C#\OOAD\supermarket form\obj\Debug\supermarket_form.Form3.resources
+C:\oudom\C# Development\YearIV C#\OOAD\supermarket form\obj\Debug\supermarket_form.Form4.resources
+C:\oudom\C# Development\YearIV C#\OOAD\supermarket form\obj\Debug\supermarket_form.Form5.resources
+C:\oudom\C# Development\YearIV C#\OOAD\supermarket form\obj\Debug\supermarket_form.Form6.resources
+C:\oudom\C# Development\YearIV C#\OOAD\supermarket form\obj\Debug\supermarket_form.four_control.resources
+C:\oudom\C# Development\YearIV C#\OOAD\supermarket form\obj\Debug\supermarket_form.Properties.Resources.resources
+C:\oudom\C# Development\YearIV C#\OOAD\supermarket form\obj\Debug\supermarket_form.second_control.resources
+C:\oudom\C# Development\YearIV C#\OOAD\supermarket form\obj\Debug\supermarket_form.sixcontrol.resources
+C:\oudom\C# Development\YearIV C#\OOAD\supermarket form\obj\Debug\supermarket_form.stock_menu.resources
+C:\oudom\C# Development\YearIV C#\OOAD\supermarket form\obj\Debug\supermarket form.csproj.GenerateResource.cache
+C:\oudom\C# Development\YearIV C#\OOAD\supermarket form\obj\Debug\supermarket form.csproj.CoreCompileInputs.cache
+C:\oudom\C# Development\YearIV C#\OOAD\supermarket form\obj\Debug\supermarket form.exe.manifest
+C:\oudom\C# Development\YearIV C#\OOAD\supermarket form\obj\Debug\supermarket form.application
+C:\oudom\C# Development\YearIV C#\OOAD\supermarket form\obj\Debug\supermarket form.csproj.CopyComplete
+C:\oudom\C# Development\YearIV C#\OOAD\supermarket form\obj\Debug\supermarket form.exe
+C:\oudom\C# Development\YearIV C#\OOAD\supermarket form\obj\Debug\supermarket form.pdb
+C:\oudom\C# Development\YearIV C#\OOAD\supermarket form\obj\Debug\supermarket form.csprojAssemblyReference.cache
